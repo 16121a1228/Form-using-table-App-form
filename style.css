@@ -1,0 +1,24 @@
+table{
+    width:70%;
+    border-spacing:10px;
+    border-collapse:collapse;
+    border:2px solid black;
+  }
+  td{
+    border:2px solid black;
+    padding:10px;
+  }
+  black;
+    padding:10px;
+  }
+  img{
+    width:20%;
+    height:20%;
+  }
+  tr:nth-child(even){
+    background: Pink;
+  }
+  tr:nth-child(odd){
+    background: Lightgreen;
+  }
+  
